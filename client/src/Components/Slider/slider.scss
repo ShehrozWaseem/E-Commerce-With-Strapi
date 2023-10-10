@@ -5,16 +5,12 @@
     overflow: hidden;
   
     .container{
-      transition: all 1s ease;
       width: 300vw;
       height: 100%;
       display: flex;
-      transition: all 1s ease;
-  
       img{
         width: 100vw;
         height: 100%;
-        object-fit: cover;
       }
     }
   
